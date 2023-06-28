@@ -1,0 +1,8 @@
+model\AmigoVo.class
+model\UsuarioVo.class
+model\UsuarioDao.class
+controller\Amigo.class
+controller\Usuario.class
+model\Conexion.class
+model\AmigoDao.class
+vinculo\Pagina.class
